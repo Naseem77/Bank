@@ -1,0 +1,60 @@
+.container-trans{
+    margin-top: 4rem;
+    margin-left: 3rem;
+    width: 500px;
+    height: 450px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+
+.trans-contanier1{
+    padding: 5px;
+    width: 400px;
+    background-color:rgb(1,1,1,0.1);
+    border-radius: 10px;
+}
+
+#first-values{
+    margin: 10px;
+    margin-right: 10px;
+}
+#second-values{
+    margin-left: 10px;
+}
+
+#btn-delete{
+   background-color: crimson;
+   font-weight: bold;
+   border-radius: 5px;
+   width: 100px;
+}
+
+#amount-data{
+    margin: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    color: navy;
+    font-weight: bold;
+    
+}
+
+#category-data{
+    margin-right: 60px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#vendor-data{
+    margin-right: 60px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#title-home{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    width: 210px;
+    border-radius: 2px;
+    font-size: 25px;
+}
